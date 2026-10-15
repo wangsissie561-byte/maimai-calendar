@@ -1,0 +1,9 @@
+{
+  "name": "maimai-calendar",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A quiet McDonald's MCP calendar for iOS Scriptable widgets",
+  "scripts": {"test": "node tests/run.js", "build": "node scripts/build.js", "preview": "python scripts/preview.py"},
+  "engines": {"node": ">=18"},
+  "license": "MIT"
+}
