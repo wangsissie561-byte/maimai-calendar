@@ -1,5 +1,9 @@
 # 参赛提交
 
+项目名称：麦麦日历（手机小组件版）
+
+已于 2026-10-15 提交正式申请：[官方 Issue #723](https://github.com/M-China/mcd-developer-innovation-challenge/issues/723)。提交成功不等于报名校验通过，以该 Issue 下官方系统回复为准。
+
 官方活动：https://github.com/M-China/mcd-developer-innovation-challenge
 
 报名截止：2026-10-25 23:59（北京时间）。以官方最新规则为准。
@@ -20,7 +24,7 @@
 
 ```text
 〖参赛申请〗
-项目名称：麦麦日历
+项目名称：麦麦日历（手机小组件版）
 项目地址：填写实际公开GitHub仓库网址
 项目简介：基于麦当劳MCP活动日历能力开发的iOS Scriptable桌面小组件，将活动资讯转成日期上的一个小图标和一行产品摘要，支持三种尺寸、三套皮肤、生日与中国节日换肤，Token仅存本机钥匙串。
 ```
