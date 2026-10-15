@@ -1,0 +1,134 @@
+{
+  "coverage": "2026-2028",
+  "source": "Hong Kong Observatory Gregorian-Lunar calendar open data",
+  "sourceUrl": "https://www.hko.gov.hk/sc/gts/time/conversion.htm",
+  "note": "Festival dates only; not statutory days off or adjusted workdays.",
+  "dates": {
+    "2026-02-16": {
+      "id": "new-year-eve",
+      "name": "除夕",
+      "hero": "lantern",
+      "icon": "lantern",
+      "greeting": "今夜团圆，快乐相伴"
+    },
+    "2026-02-17": {
+      "id": "spring-festival",
+      "name": "春节",
+      "hero": "lantern",
+      "icon": "lantern",
+      "greeting": "新的一年，快乐加满"
+    },
+    "2026-06-19": {
+      "id": "dragon-boat",
+      "name": "端午",
+      "hero": "bag",
+      "icon": "leaf",
+      "greeting": "端午安康，快乐相伴"
+    },
+    "2026-09-25": {
+      "id": "mid-autumn",
+      "name": "中秋",
+      "hero": "moon",
+      "icon": "moon",
+      "greeting": "月亮很圆，快乐也圆"
+    },
+    "2026-10-01": {
+      "id": "national-day",
+      "name": "国庆",
+      "hero": "bag",
+      "icon": "flag",
+      "greeting": "山河锦绣，欢度国庆"
+    },
+    "2026-10-18": {
+      "id": "double-ninth",
+      "name": "重阳",
+      "hero": "bag",
+      "icon": "flower",
+      "greeting": "岁岁平安，久久相伴"
+    },
+    "2027-02-05": {
+      "id": "new-year-eve",
+      "name": "除夕",
+      "hero": "lantern",
+      "icon": "lantern",
+      "greeting": "今夜团圆，快乐相伴"
+    },
+    "2027-02-06": {
+      "id": "spring-festival",
+      "name": "春节",
+      "hero": "lantern",
+      "icon": "lantern",
+      "greeting": "新的一年，快乐加满"
+    },
+    "2027-06-09": {
+      "id": "dragon-boat",
+      "name": "端午",
+      "hero": "bag",
+      "icon": "leaf",
+      "greeting": "端午安康，快乐相伴"
+    },
+    "2027-09-15": {
+      "id": "mid-autumn",
+      "name": "中秋",
+      "hero": "moon",
+      "icon": "moon",
+      "greeting": "月亮很圆，快乐也圆"
+    },
+    "2027-10-01": {
+      "id": "national-day",
+      "name": "国庆",
+      "hero": "bag",
+      "icon": "flag",
+      "greeting": "山河锦绣，欢度国庆"
+    },
+    "2027-10-08": {
+      "id": "double-ninth",
+      "name": "重阳",
+      "hero": "bag",
+      "icon": "flower",
+      "greeting": "岁岁平安，久久相伴"
+    },
+    "2028-01-25": {
+      "id": "new-year-eve",
+      "name": "除夕",
+      "hero": "lantern",
+      "icon": "lantern",
+      "greeting": "今夜团圆，快乐相伴"
+    },
+    "2028-01-26": {
+      "id": "spring-festival",
+      "name": "春节",
+      "hero": "lantern",
+      "icon": "lantern",
+      "greeting": "新的一年，快乐加满"
+    },
+    "2028-05-28": {
+      "id": "dragon-boat",
+      "name": "端午",
+      "hero": "bag",
+      "icon": "leaf",
+      "greeting": "端午安康，快乐相伴"
+    },
+    "2028-10-01": {
+      "id": "national-day",
+      "name": "国庆",
+      "hero": "bag",
+      "icon": "flag",
+      "greeting": "山河锦绣，欢度国庆"
+    },
+    "2028-10-03": {
+      "id": "mid-autumn",
+      "name": "中秋",
+      "hero": "moon",
+      "icon": "moon",
+      "greeting": "月亮很圆，快乐也圆"
+    },
+    "2028-10-26": {
+      "id": "double-ninth",
+      "name": "重阳",
+      "hero": "bag",
+      "icon": "flower",
+      "greeting": "岁岁平安，久久相伴"
+    }
+  }
+}
