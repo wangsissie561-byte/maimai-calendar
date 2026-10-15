@@ -22,7 +22,7 @@
 ## 给 iPhone 用户
 
 1. 从 [App Store 安装 Scriptable](https://apps.apple.com/app/scriptable/id1405459188)。
-2. 下载项目的 **麦麦日历-iPhone安装包.zip**，在“文件”App 解压。
+2. [下载 iPhone 安装包](https://github.com/wangsissie561-byte/maimai-calendar/releases/download/v0.1.0/maimai-calendar-iphone.zip)，在“文件”App 解压。
 3. 将 `Scriptable` 文件夹内的 5 个 `.js` 文件及 `MaiCalendarAssets` 文件夹放入 `iCloud Drive/Scriptable/`（放文件，不要再嵌套一层 `Scriptable`）。
 4. 在 Scriptable 中运行“麦麦日历”，设置 MCP Token、皮肤和生日，预览三个尺寸。
 5. 长按桌面添加 Scriptable 小组件，选择“麦麦日历”脚本。详细步骤见 [iPhone 安装说明](docs/INSTALL_IOS.md)。
